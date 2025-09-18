@@ -1,60 +1,64 @@
-## Competitive Programming Solutions
-A curated collection of my solutions, notes, and practice problems from various online judges and contests. This repository serves as a personal log of my journey in competitive programming, focusing on improving algorithmic and problem-solving skills.
+# 🏆 Competitive Programming Solutions
 
-## 🚀 Platforms and Contests
-This repository contains my solutions for problems from the following platforms:
+Uma coleção curada das minhas soluções, anotações e problemas práticos de diversos juízes online e competições.  
+Este repositório serve como um registro pessoal da minha jornada em **programação competitiva**, com foco em melhorar minhas habilidades de **algoritmos** e **resolução de problemas**.
 
-LeetCode: Algorithm challenges and weekly/bi-weekly contests.
+---
 
-Beecrowd (URI): Problems in Portuguese, ideal for practicing fundamental concepts.
+## 🚀 Plataformas e Competições
 
-Codeforces: Contests and problemsets from one of the most popular competitive programming communities.
+Este repositório contém soluções para problemas das seguintes plataformas:
 
-## 📁 Repository Structure
-The repository is organized to make it easy to navigate through problems and platforms.
+- **LeetCode**: Desafios de algoritmos e competições semanais/quinzenais.  
+- **Beecrowd (URI)**: Problemas em português, ideais para praticar conceitos fundamentais.  
+- **Codeforces**: Competições e listas de problemas de uma das comunidades mais populares de competitive programming.  
+
+---
+
+## 📁 Estrutura do Repositório
+
+A organização facilita a navegação entre problemas e plataformas:
 
 .
 ├── LeetCode/
-│   ├── problem-name-1/
-│   │   └── solution.cpp
-│   ├── problem-name-2/
-│   │   └── solution.py
-│   └── ...
+│ ├── problem-name-1/
+│ │ └── solution.cpp
+│ ├── problem-name-2/
+│ │ └── solution.py
+│ └── ...
 ├── Beecrowd/
-│   ├── problem-id-1/
-│   │   └── solution.cpp
-│   ├── problem-id-2/
-│   │   └── solution.java
-│   └── ...
+│ ├── problem-id-1/
+│ │ └── solution.cpp
+│ ├── problem-id-2/
+│ │ └── solution.java
+│ └── ...
 └── Codeforces/
-    ├── contest-name-1/
-    │   ├── problem-A/
-    │   │   └── solution.cpp
-    │   ├── problem-B/
-    │   │   └── solution.py
-    │   └── ...
-    └── ...
-    
-Platforms: Each main directory (LeetCode, Beecrowd, Codeforces) represents a different online judge.
+├── contest-name-1/
+│ ├── problem-A/
+│ │ └── solution.cpp
+│ ├── problem-B/
+│ │ └── solution.py
+│ └── ...
+└── ...
 
-Problems: Within each platform folder, solutions are organized by problem name or ID.
 
-Code: Each solution is contained in a single file, typically named solution.cpp or similar, depending on the language used.
+- **Platforms**: Cada diretório principal (`LeetCode`, `Beecrowd`, `Codeforces`) representa um online judge diferente.  
+- **Problems**: Dentro de cada pasta, as soluções são organizadas por nome ou ID do problema.  
+- **Code**: Cada solução está em um único arquivo (`solution.cpp`, `solution.py`, etc.), dependendo da linguagem utilizada.  
 
-## 🛠️ Languages and Tools
-Primary Languages: C++ and Python
+---
 
-Editor: Visual Studio Code
+## 🛠️ Linguagens e Ferramentas
 
-Version Control: Git
+- **Linguagens principais**: C++ e Python  
+- **Editor**: Visual Studio Code  
+- **Controle de versão**: Git  
 
-## ✨ How to use this repository
-You can clone this repository to your local machine to explore the solutions:
+---
 
-## Bash
+## ✨ Como usar este repositório
 
+Você pode clonar o repositório na sua máquina local para explorar as soluções:
+
+```bash
 git clone https://github.com/Joaoanbp/CompetitiveProgramming.git
-Feel free to suggest improvements, or point out any mistakes. Happy coding!
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
