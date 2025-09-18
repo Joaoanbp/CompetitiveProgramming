@@ -21,27 +21,27 @@ A organização facilita a navegação entre problemas e plataformas:
 
 .
 ├── LeetCode/
-│ ├── problem-name-1/
-│ │ └── solution.cpp
-│ └── ...
+│ - ├── problem-name-1/
+│ - │ - └── solution.cpp
+│ - └── ...
 ├── Beecrowd/
-│ ├── problem-id-1/
-│ │ └── solution.cpp
-│ └── ...
+│ - ├── problem-id-1/
+│ - │ └── solution.cpp
+│ - └── ...
 └── Codeforces/
 ├── contest-name-1/
-│ ├── problem-A/
-│ │ └── solution.cpp
-│ └── ...
+│ - ├── problem-A/
+│ - │ └── solution.cpp
+│ - └── ...
 └── ...
-.
 
-- **Platforms**: Cada diretório principal (`[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/seu-usuario)`, `Beecrowd`, `Codeforces`) representa um online judge diferente.
+
+- **Platforms**: Cada diretório principal (`Leetcode`, `Beecrowd`, `Codeforces`) representa um online judge diferente.
 - ## 🚀 Plataformas e Competições
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/seu-usuario)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-2E7D32?style=for-the-badge&logo=academia&logoColor=white)](https://www.beecrowd.com.br/judge/pt/profile/SEU_ID)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/seu-usuario)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/joaoanbp)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-2E7D32?style=for-the-badge&logo=academia&logoColor=white)](https://www.beecrowd.com.br/judge/pt/profile/1168244)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Joaoanbp)
 
 - **Problems**: Dentro de cada pasta, as soluções são organizadas por nome ou ID do problema.  
 - **Code**: Cada solução está em um único arquivo (`solution.cpp`, `solution.py`, etc.), dependendo da linguagem utilizada.  
