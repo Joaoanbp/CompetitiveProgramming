@@ -34,6 +34,7 @@ The repository is organized to make it easy to navigate through problems and pla
     │   │   └── solution.py
     │   └── ...
     └── ...
+    
 Platforms: Each main directory (LeetCode, Beecrowd, Codeforces) represents a different online judge.
 
 Problems: Within each platform folder, solutions are organized by problem name or ID.
