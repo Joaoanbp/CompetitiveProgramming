@@ -50,9 +50,9 @@ A organização facilita a navegação entre problemas e plataformas:
 
 ## 🛠️ Linguagens e Ferramentas
 
-- **Linguagens principais**: C++ e Python  
-- **Editor**: Visual Studio Code  
-- **Controle de versão**: Git  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
