@@ -23,26 +23,26 @@ A organização facilita a navegação entre problemas e plataformas:
 ├── LeetCode/
 │ ├── problem-name-1/
 │ │ └── solution.cpp
-│ ├── problem-name-2/
-│ │ └── solution.py
 │ └── ...
 ├── Beecrowd/
 │ ├── problem-id-1/
 │ │ └── solution.cpp
-│ ├── problem-id-2/
-│ │ └── solution.java
 │ └── ...
 └── Codeforces/
 ├── contest-name-1/
 │ ├── problem-A/
 │ │ └── solution.cpp
-│ ├── problem-B/
-│ │ └── solution.py
 │ └── ...
 └── ...
+.
 
+- **Platforms**: Cada diretório principal (`[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/seu-usuario)`, `Beecrowd`, `Codeforces`) representa um online judge diferente.
+- ## 🚀 Plataformas e Competições
 
-- **Platforms**: Cada diretório principal (`LeetCode`, `Beecrowd`, `Codeforces`) representa um online judge diferente.  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/seu-usuario)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-2E7D32?style=for-the-badge&logo=academia&logoColor=white)](https://www.beecrowd.com.br/judge/pt/profile/SEU_ID)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/seu-usuario)
+
 - **Problems**: Dentro de cada pasta, as soluções são organizadas por nome ou ID do problema.  
 - **Code**: Cada solução está em um único arquivo (`solution.cpp`, `solution.py`, etc.), dependendo da linguagem utilizada.  
 
